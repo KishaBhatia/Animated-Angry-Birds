@@ -1,2 +1,2 @@
-# Animated-Angry-Birds
-Used inheritance,over-writing,animations
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
